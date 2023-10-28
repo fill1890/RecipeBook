@@ -42,6 +42,7 @@ Recipe
 #. Add 3/4 cups popcorn, shake to spread evenly, lid and clamp down
 #. Shake gently once shortly after popping begins
 #. Remove from heat when popped and transfer to bowl
+#. (Optional) Remove and discard unpopped kernels
 
 **Caramel**
 
@@ -49,7 +50,7 @@ Recipe
 
 1. Melt 100g butter in saucepan over medium heat
 #. While melting, prepare 1 cup sugar, 1/2 cup stabiliser, 1/2 tsp salt
-#. Add sugar, corn syrup and salt; stir until just combined
+#. Add sugar, stabiliser and salt; stir until just combined
 #. Wait for bubbling to begin; prepare 4 minute timer
 #. Once bubbling, simmer for 4 minutes WITHOUT stirring
 #. While simmering, prepare 1 tsp vanilla and 1/2 tsp baking soda
@@ -73,10 +74,10 @@ Notes
    will require extra baking time
 3. Baking soda foams up caramel and makes coating popcorn easier
 4. Baking the coated popcorn allows a more even coat of caramel, and dries
-   out the popcorn for crispness and allow storage
+   out the popcorn for crispness and longer storage times
 5. Cleaning is much easier with heat. Use hot tap water or boiling water on
    utensils coated with caramel
 
 :Shelf Life: 2-3 weeks, airtight container
-:Version: 1.0, 07/10/2023
+:Version: 1.1, 07/10/2023
 :Author: Nagi @ RecipeTinEats
